@@ -39,5 +39,4 @@ python -u run.py \
   --top_k 5 \
   --des 'Exp' \
   --itr 1 \
-  --inverse True 
   
