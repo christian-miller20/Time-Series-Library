@@ -20,7 +20,7 @@ python -u run.py \
   --task_name long_term_forecast \
   --is_training 1 \
   --root_path ./dataset/stock_data/ \
-  --data_path MSFT.csv \
+  --data_path MSFT_all.csv \
   --model_id Stock_60_60 \
   --model $model_name \
   --data custom \
